@@ -1,0 +1,41 @@
+#pwidget
+{
+  background-color:#EEEEEE;
+  width:264px;
+  padding:2px;
+  -moz-border-radius:3px;
+  border-radius:3px;
+  text-align:left;
+  border:1px solid gray;	
+  top : 45%;
+  left : 30%;
+  position : absolute;
+}
+#progressbar
+{
+  width:260px;
+  padding:1px;
+  background-color:white;
+  border:1px solid black;
+  height:28px;
+}
+#indicator
+{
+  width:0px;
+  background-color: lightblue;
+  height:28px;
+  margin:0;
+}
+
+#indicator_min
+{
+  width:25px;
+  background-color: white;
+  height:28px;
+  margin:0;
+}
+#progressnum
+{
+  text-align:center;
+  width:260px;
+}

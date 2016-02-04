@@ -1,0 +1,631 @@
+
+
+@media (max-width:439px){
+	input, textarea {
+  width: 249px;
+  margin-bottom:10px;
+}
+ 
+textarea {
+  height: 100px;
+  width:200px;
+}
+ 
+select {
+  width: 254px;
+  margin-bottom:10px;
+}
+
+label {
+  width: 130px;
+  display: inline-block;
+  vertical-align: top;
+  margin: 2px;
+}
+
+input[type=submit], input[type=button] {
+	padding:5px 15px;
+	
+	background:#eee; 
+	color:#777;
+	border:0 none;
+	cursor:pointer;
+	border-radius: 5px; 
+	margin-top:5px;
+	margin-bottom:5px;
+	
+}
+    
+
+
+.bouton{
+	width:100px;
+}
+
+.disabled
+{
+    background-color: #fafafa;
+    color: #777;
+	 opacity: 0.3;
+    filter:alpha(opacity=50);
+    -moz-opacity:0.3;
+}
+
+.reglagebox
+{
+    width:90%;
+    
+	overflow : auto;
+    position: absolute;
+
+    border-radius: 20px;
+
+    box-shadow: 1px 0px 5px gray;
+
+    padding: 10px;
+	
+	background-color:#dddddd;
+}
+
+.b1
+{
+    left:3%;
+	top: 2%;
+	height: 56%;
+}
+
+.b2
+{
+    left:3%;
+	top:61%;
+	height: 23%;
+}
+
+.b3
+{
+    left:3%;
+	top:87%;
+	height:23%
+}
+
+.b4
+{
+	left:3%;
+    top: 113%;
+	height:4%;
+}
+
+.chargerPatient
+{
+	width:125px;
+	
+}
+.sauvegarder
+{
+	display:block;
+	margin:auto;
+	
+}
+}
+
+@media (min-width:440px) and (max-width:499px){
+	input, textarea {
+  width: 249px;
+  margin-bottom:10px;
+}
+ 
+textarea {
+  height: 100px;
+  width:200px;
+}
+ 
+select {
+  width: 254px;
+  margin-bottom:10px;
+}
+
+label {
+  width: 130px;
+  display: inline-block;
+  vertical-align: top;
+  margin: 2px;
+}
+
+input[type=submit], input[type=button] {
+	padding:5px 15px;
+	
+	background:#eee; 
+	color:#777;
+	border:0 none;
+	cursor:pointer;
+	border-radius: 5px; 
+	margin-top:5px;
+	margin-bottom:5px;
+	
+	}
+
+.bouton{
+	width:100px;
+}
+
+.disabled
+{
+    background-color: #fafafa;
+    color: #777;
+	 opacity: 0.3;
+    filter:alpha(opacity=50);
+    -moz-opacity:0.3;
+}
+
+.reglagebox
+{
+    width:90%;
+    
+	overflow : auto;
+    position: absolute;
+
+    border-radius: 20px;
+
+    box-shadow: 1px 0px 5px gray;
+
+    padding: 10px;
+	
+	background-color:#dddddd;
+}
+
+.b1
+{
+    left:3%;
+	top: 5%;
+	height: 36%;
+}
+
+.b2
+{
+    left:3%;
+	top:45%;
+	height: 16%;
+}
+
+.b3
+{
+    left:3%;
+	top: 65%;
+	height:16%
+}
+
+.b4
+{
+	left:3%;
+    top: 85%;
+	height:5%;
+}
+
+.chargerPatient
+{
+	width:125px;
+	
+}
+.sauvegarder
+{
+	display:block;
+	margin:auto;
+	
+}
+}
+
+@media (min-width:500px) and (max-width:709px){
+	input, textarea {
+  width: 249px;
+  margin-bottom:10px;
+}
+ 
+textarea {
+  height: 100px;
+  width:200px;
+}
+ 
+select {
+  width: 254px;
+  margin-bottom:10px;
+}
+
+label {
+  width: 130px;
+  display: inline-block;
+  vertical-align: top;
+  margin: 2px;
+}
+
+input[type=submit], input[type=button] {
+	padding:5px 15px;
+	
+	background:#eee; 
+	color:#777;
+	border:0 none;
+	cursor:pointer;
+	border-radius: 5px; 
+	margin-top:5px;
+	margin-bottom:5px;
+	
+	}
+
+.bouton{
+	width:100px;
+}
+
+.disabled
+{
+    background-color: #fafafa;
+    color: #777;
+	 opacity: 0.3;
+    filter:alpha(opacity=50);
+    -moz-opacity:0.3;
+}
+
+.reglagebox
+{
+    width:80%;
+    
+	overflow : auto;
+    position: absolute;
+
+    border-radius: 20px;
+
+    box-shadow: 1px 0px 5px gray;
+
+    padding: 10px;
+	
+	background-color:#dddddd;
+}
+
+.b1
+{
+    left:8%;
+	top: 5%;
+	height: 36%;
+}
+
+.b2
+{
+    left:8%;
+	top:45%;
+	height: 16%;
+}
+
+.b3
+{
+    left:8%;
+	top: 65%;
+	height:16%
+}
+
+.b4
+{
+	left:8%;
+    top: 85%;
+	height:5%;
+}
+
+.chargerPatient
+{
+	width:125px;
+	
+}
+.sauvegarder
+{
+	display:block;
+	margin:auto;
+	
+}
+
+}
+
+
+@media (min-width:710px) and (max-width: 900px) {
+input, textarea {
+  width: 249px;
+  margin-bottom:10px;
+}
+ 
+textarea {
+  height: 100px;
+  width:200px;
+}
+ 
+select {
+  width: 254px;
+  margin-bottom:10px;
+}
+
+label {
+  width: 130px;
+  display: inline-block;
+  vertical-align: top;
+  margin: 2px;
+}
+
+input[type=submit], input[type=button] {
+	padding:5px 15px;
+	
+	background:#eee; 
+	color:#777;
+	border:0 none;
+	cursor:pointer;
+	border-radius: 5px; 
+	margin-top:5px;
+	margin-bottom:5px;
+	
+	}
+
+.bouton{
+	width:100px;
+}
+
+.disabled
+{
+    background-color: #fafafa;
+    color: #777;
+	 opacity: 0.3;
+    filter:alpha(opacity=50);
+    -moz-opacity:0.3;
+}
+
+.reglagebox
+{
+    width:45%;
+    
+	overflow : auto;
+    position: absolute;
+
+    border-radius: 20px;
+
+    box-shadow: 1px 0px 5px gray;
+
+    padding: 10px;
+	
+	background-color:#dddddd;
+}
+
+.leftcolumn
+{
+    left: 2%;
+}
+
+.rightcolumn
+{
+    left:50%;
+}
+
+.toprow
+{
+    top: 4%;
+	height:54%;
+	
+}
+
+.bottomrow
+{
+    top: 63%;
+	height:40%;
+}
+
+.chargerPatient
+{
+	width:125px;
+	
+}
+.sauvegarder
+{
+	display:block;
+	margin:auto;
+	
+}
+
+}
+
+
+@media (min-width:901px) and (max-width: 1199px) {
+input, textarea {
+  width: 249px;
+  margin-bottom:10px;
+}
+ 
+textarea {
+  height: 100px;
+  width:200px;
+}
+ 
+select {
+  width: 254px;
+  margin-bottom:10px;
+}
+
+label {
+  width: 130px;
+  display: inline-block;
+  vertical-align: top;
+  margin: 2px;
+}
+
+input[type=submit], input[type=button] {
+	padding:5px 15px;
+	
+	background:#eee; 
+	color:#777;
+	border:0 none;
+	cursor:pointer;
+	border-radius: 5px; 
+	margin-top:5px;
+	margin-bottom:5px;
+	
+	}
+
+.bouton{
+	width:100px;
+}
+
+.disabled
+{
+    background-color: #fafafa;
+    color: #777;
+	 opacity: 0.3;
+    filter:alpha(opacity=50);
+    -moz-opacity:0.3;
+}
+
+.reglagebox
+{
+    width:45%;
+    height:40%;
+	
+	overflow : auto;
+    position: absolute;
+
+    border-radius: 20px;
+
+    box-shadow: 1px 0px 5px gray;
+
+    padding: 10px;
+	
+	background-color:#dddddd;
+}
+
+.leftcolumn
+{
+    left: 2%;
+}
+
+.rightcolumn
+{
+    left:50%;
+}
+
+.toprow
+{
+    top: 4%;
+}
+
+.bottomrow
+{
+    top: 51%;
+}
+
+.chargerPatient
+{
+	width:125px;
+	
+}
+.sauvegarder
+{
+	display:block;
+	margin:auto;
+	
+}
+
+}
+
+ 
+@media (min-width: 1200px) {
+input, textarea {
+  width: 249px;
+  margin-bottom:10px;
+}
+ 
+textarea {
+  height: 100px;
+  width:200px;
+}
+ 
+select {
+  width: 254px;
+  margin-bottom:10px;
+}
+
+label {
+  width: 130px;
+  display: inline-block;
+  vertical-align: top;
+  margin: 2px;
+}
+
+input[type=submit], input[type=button] {
+	padding:5px 15px;
+	
+	background:#eee; 
+	color:#777;
+	border:0 none;
+	cursor:pointer;
+	border-radius: 5px; 
+	margin-top:5px;
+	margin-bottom:5px;
+	
+	}
+
+.bouton{
+	width:100px;
+}
+
+.disabled
+{
+    background-color: #fafafa;
+    color: #777;
+	 opacity: 0.3;
+    filter:alpha(opacity=50);
+    -moz-opacity:0.3;
+}
+
+.reglagebox
+{
+    width:35%;
+    height:40%;
+	
+	overflow : auto;
+    position: absolute;
+
+    border-radius: 20px;
+
+    box-shadow: 1px 0px 5px gray;
+
+    padding: 10px;
+	
+	background-color:#dddddd;
+}
+
+
+.leftcolumn
+{
+    left: 12%;
+}
+
+.rightcolumn
+{
+    left: 50%;
+}
+
+.toprow
+{
+    top: 4%;
+}
+
+.bottomrow
+{
+    top: 51%;
+}
+
+.chargerPatient
+{
+	width:125px;
+	
+}
+.sauvegarder
+{
+	display:block;
+	margin:auto;
+	
+}
+
+}
+input[type=radio], .radio {
+    width: auto;
+}

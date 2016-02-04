@@ -1,0 +1,91 @@
+textarea {
+  width: 249px;
+  margin-bottom:10px;
+}
+
+.radio {
+    width: 2em;
+}
+ 
+textarea {
+  height: 100px;
+}
+ 
+select {
+  width: 254px;
+  margin-bottom:10px;
+}
+
+label {
+  width: 130px;
+  display: inline-block;
+  vertical-align: top;
+  margin: 2px;
+}
+
+
+
+input[type=submit] {
+	padding:5px 15px;
+	
+	background:#ccc; 
+	color:#777
+	border:0 none;
+	cursor:pointer;
+	-webkit-border-radius: 5px;
+	border-radius: 5px; 
+	margin-top:5px;
+	margin-bottom:5px;
+	}
+
+.bouton{
+	width:100px;
+}
+
+.disabled
+{
+    background-color: #fafafa;
+    color: #777;
+	 opacity: 0.3;
+    filter:alpha(opacity=50);
+    -moz-opacity:0.3;
+}
+
+.reglagebox
+{
+    width:400px;
+    height:400px;
+
+    position: absolute;
+
+    border-radius: 20px;
+
+    box-shadow: 1px 0px 5px gray;
+
+    padding: 10px;
+}
+
+.leftcolumn
+{
+    left: 10px;
+}
+
+.rightcolumn
+{
+    left: 450px;
+}
+
+.toprow
+{
+    top: 10px;
+}
+
+.bottomrow
+{
+    top: 450px;
+}
+
+.chargerPatient
+{
+	width:125px;
+}
